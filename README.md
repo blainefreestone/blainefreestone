@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blainefreestone
 - 👀 I’m interested in software development, web development, and computer engineering.
-- 🌱 I’m currently learning Python, OOP with C#, and C. I'm also working on the Odin Project to learn Full-Stack web development.
+- 🌱 I’m currently learning Ruby on Rails and Data Structures with Python. I have experience with Python, C#, C, HTML, CSS, and Javascript.
 - 📫 How to reach me blainefreestone01@gmail.com
 
 <!---
