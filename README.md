@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blainefreestone
 - 👀 I’m interested in software development, web development, and computer engineering.
-- 🌱 I’m currently learning Ruby on Rails and Data Structures with Python. I have experience with Python, C#, C, HTML, CSS, and Javascript.
+- 🌱 I have experience with Python, C#, C, HTML, CSS, and Javascript, Ruby on Rails.
 - 📫 How to reach me blainefreestone01@gmail.com
 
 <!---
